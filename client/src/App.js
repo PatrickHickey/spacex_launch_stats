@@ -6,7 +6,7 @@ import './App.css';
 import logo from './logo.png';
 
 const client = new ApolloClient({
-  uri: 'http//localhost:5000/graphql'
+  uri: 'http://localhost:5000/graphql'
 });
 
 class App extends Component {
